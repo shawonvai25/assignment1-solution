@@ -51,3 +51,43 @@
   color: rgb(255, 255, 255);
   margin: 3rem 38.5rem 2rem 38.5rem;
 }
+/* reason section styles*/
+.Reason-section-container {
+  width: 71.25rem;
+  height: 87.0625rem;
+  border: 2px solid red;
+  background-color: rgba(13, 19, 33, 0.02);
+  margin: 0 auto;
+  margin-top: 4.625rem;
+}
+.reason-section {
+  width: 59.125rem;
+  height: 77.0625rem;
+  border: 2px solid red;
+  margin: 5rem 6.0625rem;
+}
+.reason-text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid red;
+  text-align: center;
+}
+.reason-text-container h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.3125rem;
+  color: rgb(13, 19, 33);
+  width: 53.25rem;
+  height: 2.3125rem;
+}
+.reason-text-container p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  border: 2px solid blue;
+  width: 53.25rem;
+  height: 3.25rem;
+  margin-top: 1.5625rem;
+  color: rgb(13, 19, 33);
+}
