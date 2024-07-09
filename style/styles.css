@@ -196,13 +196,12 @@
 .inspiration-section {
   width: 71.25rem;
   height: 48.4375rem;
-  border: 2px solid red;
   margin: 0 auto;
+  margin-top: 6rem;
 }
 .inspiration-text {
   width: 53.25rem;
   height: 7.0625rem;
-  border: 2px solid red;
   margin: 0 auto;
   margin-bottom: 3rem;
 }
@@ -219,3 +218,12 @@
   margin-top: 1rem;
   line-height: 2.3125rem;
 }
+.inspiration-video {
+  width: 67.25rem;
+  height: 34.375rem;
+  margin: 0 auto;
+}
+.iframe {
+  border-radius: 10px;
+}
+/* target section style */
