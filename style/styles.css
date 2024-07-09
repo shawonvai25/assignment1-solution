@@ -15,7 +15,6 @@
 .header-img-container {
   width: 15.0175rem;
   height: 15rem;
-  border: 2px solid red;
   margin: 0 auto;
   margin-top: 26px;
   margin-bottom: 32px;
@@ -25,7 +24,6 @@
   font-weight: 800;
   line-height: 68px;
   text-align: center;
-  border: 2px solid red;
   width: 62.375rem;
   height: 8.5rem;
   letter-spacing: 0%;
