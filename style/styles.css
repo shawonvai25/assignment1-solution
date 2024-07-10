@@ -38,6 +38,7 @@
   margin: 0 auto;
   margin-top: 20px;
   color: rgb(13, 19, 33);
+  opacity: 0.7;
 }
 .contact-btn {
   width: 13rem;
@@ -86,6 +87,7 @@
   height: 3.25rem;
   margin-top: 1.5625rem;
   color: rgb(13, 19, 33);
+  opacity: 0.7;
 }
 /* purpose styles */
 .purpose-container1 {
@@ -112,6 +114,7 @@
   line-height: 1.625rem;
   margin-top: 1rem;
   color: rgb(13, 19, 33);
+  opacity: 0.7;
 }
 
 #learn1-btn {
@@ -148,6 +151,7 @@
   line-height: 1.625rem;
   margin-top: 1rem;
   color: rgb(13, 19, 33);
+  opacity: 0.7;
 }
 #learn2-btn {
   padding: 0.75rem 1.25rem;
@@ -182,6 +186,7 @@
   line-height: 1.625rem;
   margin-top: 1rem;
   color: rgb(13, 19, 33);
+  opacity: 0.7;
 }
 #learn3-btn {
   padding: 0.75rem 1.25rem;
@@ -217,6 +222,7 @@
   font-size: 1rem;
   margin-top: 1rem;
   line-height: 2.3125rem;
+  opacity: 0.7;
 }
 .inspiration-video {
   width: 67.25rem;
@@ -250,6 +256,7 @@
   font-size: 1rem;
   line-height: 1.625rem;
   margin-top: 1.5rem;
+  opacity: 0.7;
 }
 .target-card-container {
   display: flex;
@@ -284,6 +291,7 @@
   line-height: 1.625rem;
   text-align: left;
   margin-bottom: 1.5rem;
+  opacity: 0.7;
 }
 .card1 a {
   font-size: 1rem;
@@ -320,6 +328,7 @@
   line-height: 1.625rem;
   text-align: left;
   margin-bottom: 1.5rem;
+  opacity: 0.7;
 }
 .card2 a {
   font-size: 1rem;
@@ -356,10 +365,178 @@
   line-height: 1.625rem;
   text-align: left;
   margin-bottom: 1.5rem;
+  opacity: 0.7;
 }
 .card3 a {
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.1875rem;
   color: rgb(13, 19, 33);
+}
+/* next target style */
+.next-target-section {
+  border: 2px solid red;
+  width: 71.25rem;
+  height: 54.125rem;
+  margin: 0 auto;
+  margin-bottom: 3.0625rem;
+}
+.next-target-text {
+  border: 2px solid red;
+  width: 53.25rem;
+  height: 7.0625rem;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+}
+.next-target-text h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.3125rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: rgb(13, 19, 33);
+}
+.next-target-text p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: center;
+  color: rgb(13, 19, 33);
+  opacity: 0.7;
+}
+.react-container {
+  width: 71.25rem;
+  height: 13.6875rem;
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.react-icon {
+  width: 5.875rem;
+  height: 5.275625rem;
+  border: 2px solid red;
+}
+.react-text {
+  width: 58.82625rem;
+  height: 8.6875rem;
+  border: 2px solid red;
+}
+.react-text h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+.react-text p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+.react-text a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
+.node-container {
+  width: 71.25rem;
+  height: 13.6875rem;
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.node-icon {
+  width: 8.95625rem;
+  height: 5.484375rem;
+  border: 2px solid red;
+}
+.node-text {
+  width: 58.82625rem;
+  height: 8.6875rem;
+  border: 2px solid red;
+}
+.node-text h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+.node-text p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+.node-text a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
+.mongo-container {
+  width: 71.25rem;
+  height: 13.6875rem;
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.mongo-icon {
+  width: 6.75rem;
+  height: 6.75rem;
+  border: 2px solid red;
+}
+.mongo-text {
+  width: 58.82625rem;
+  height: 8.6875rem;
+  border: 2px solid red;
+}
+.mongo-text h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+.mongo-text p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+.mongo-text a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
+/* support section style */
+.support-section {
+  width: 71.25rem;
+  height: 19.5625rem;
+  border: 2px solid red;
+  margin: 0 auto;
 }
