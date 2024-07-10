@@ -539,4 +539,50 @@
   height: 19.5625rem;
   border: 2px solid red;
   margin: 0 auto;
+  border-radius: 16px;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-image: url(../assets/handshake.jpg);
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+.support-text h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.25rem;
+  color: white;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+.support-text p {
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.form-container {
+  width: 42.75rem;
+  height: 3.5625rem;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 3.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+.form-container form input {
+  width: 34.25rem;
+  height: 3.5625rem;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  text-align: left;
+}
+.submit-btn {
+  width: 7.5rem;
+  height: 3.5625rem;
+  border-radius: 0.6rem;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.4375rem;
 }
