@@ -52,6 +52,11 @@
   color: rgb(255, 255, 255);
   margin: 3rem 38.5rem 2rem 38.5rem;
 }
+.contact-btn a {
+  text-decoration: none;
+  color: white;
+}
+
 /* reason section styles*/
 .Reason-section-container {
   width: 71.25rem;
@@ -75,7 +80,7 @@
   font-size: 2rem;
   font-weight: 800;
   line-height: 2.3125rem;
-  color: rgb(13, 19, 33);
+  color: black;
   width: 53.25rem;
   height: 2.3125rem;
 }
@@ -375,14 +380,12 @@
 }
 /* next target style */
 .next-target-section {
-  border: 2px solid red;
   width: 71.25rem;
   height: 54.125rem;
   margin: 0 auto;
   margin-bottom: 3.0625rem;
 }
 .next-target-text {
-  border: 2px solid red;
   width: 53.25rem;
   height: 7.0625rem;
   margin: 0 auto;
@@ -419,12 +422,10 @@
 .react-icon {
   width: 5.875rem;
   height: 5.275625rem;
-  border: 2px solid red;
 }
 .react-text {
   width: 58.82625rem;
   height: 8.6875rem;
-  border: 2px solid red;
 }
 .react-text h2 {
   font-size: 1.5rem;
@@ -462,12 +463,10 @@
 .node-icon {
   width: 8.95625rem;
   height: 5.484375rem;
-  border: 2px solid red;
 }
 .node-text {
   width: 58.82625rem;
   height: 8.6875rem;
-  border: 2px solid red;
 }
 .node-text h2 {
   font-size: 1.5rem;
@@ -505,12 +504,10 @@
 .mongo-icon {
   width: 6.75rem;
   height: 6.75rem;
-  border: 2px solid red;
 }
 .mongo-text {
   width: 58.82625rem;
   height: 8.6875rem;
-  border: 2px solid red;
 }
 .mongo-text h2 {
   font-size: 1.5rem;
@@ -537,7 +534,6 @@
 .support-section {
   width: 71.25rem;
   height: 19.5625rem;
-  border: 2px solid red;
   margin: 0 auto;
   border-radius: 16px;
   background-color: rgba(0, 0, 0, 0.5);
@@ -545,6 +541,7 @@
   background-position: center;
   background-size: cover;
   background-blend-mode: overlay;
+  margin-bottom: 6rem;
 }
 .support-text h2 {
   font-size: 2rem;
@@ -564,7 +561,6 @@
 .form-container {
   width: 42.75rem;
   height: 3.5625rem;
-  border: 2px solid red;
   margin: 0 auto;
   margin-top: 3.5rem;
   display: flex;
@@ -575,7 +571,7 @@
   height: 3.5625rem;
   border-radius: 0.6rem;
   font-size: 1rem;
-  text-align: left;
+  text-align: center;
 }
 .submit-btn {
   width: 7.5rem;
@@ -585,4 +581,32 @@
   font-size: 1.25rem;
   font-weight: 600;
   line-height: 1.4375rem;
+}
+/* footer section style */
+footer {
+  width: 90rem;
+  height: 6.25rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(13, 19, 33, 0.03);
+}
+.footer-container {
+  width: 71.25rem;
+  height: 2.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-text {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.4375rem;
+}
+.footer-icons {
+  width: 9.813125rem;
+  height: 2.25rem;
+  display: flex;
+  justify-content: space-between;
 }
