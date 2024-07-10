@@ -227,3 +227,139 @@
   border-radius: 10px;
 }
 /* target section style */
+.current-target-container {
+  width: 71.25rem;
+  height: 28.75rem;
+  margin: 0 auto;
+  margin-bottom: 6.9375rem;
+}
+.current-target-text {
+  width: 53.25rem;
+  height: 7.0625rem;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+}
+.current-target-text h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.3125rem;
+  text-align: center;
+}
+.current-target-text p {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.625rem;
+  margin-top: 1.5rem;
+}
+.target-card-container {
+  display: flex;
+  justify-content: space-between;
+}
+.card-cover1 {
+  width: 22.75rem;
+  height: 18.6875rem;
+  background-color: rgba(255, 76, 30, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.75rem;
+}
+.card1 {
+  width: 17.75rem;
+  height: 13.6875rem;
+}
+.card1 img {
+  margin-bottom: 1.5rem;
+}
+.card1 h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  color: rgb(13, 19, 33);
+  text-align: left;
+}
+.card1 p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+.card1 a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
+.card-cover2 {
+  width: 22.75rem;
+  height: 18.6875rem;
+  background-color: rgba(0, 76, 232, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.75rem;
+}
+.card2 {
+  width: 17.75rem;
+  height: 13.6875rem;
+}
+.card2 img {
+  margin-bottom: 1.5rem;
+}
+.card2 h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  color: rgb(13, 19, 33);
+  text-align: left;
+}
+.card2 p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+.card2 a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
+.card-cover3 {
+  width: 22.75rem;
+  height: 18.6875rem;
+  background-color: rgba(255, 223, 0, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.75rem;
+}
+.card3 {
+  width: 17.75rem;
+  height: 13.6875rem;
+}
+.card3 img {
+  margin-bottom: 1.5rem;
+}
+.card3 h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.25rem;
+  color: rgb(13, 19, 33);
+  text-align: left;
+}
+.card3 p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.625rem;
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+.card3 a {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.1875rem;
+  color: rgb(13, 19, 33);
+}
